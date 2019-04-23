@@ -42,3 +42,20 @@ PyCharm for Anaconda
 --------------------
 is available at:
 https://www.anaconda.com/pycharm
+
+NumPy и SciPy. Документация по NumPy и SciPy
+--------------------------------------------
+https://docs.scipy.org/doc/
+
+Упражнения по Numpy
+-------------------
+https://github.com/Kyubyong/numpy_exercises
+
+Множество примеров работы с библиотекой SciPy
+---------------------------------------------
+https://www.scipy-lectures.org/index.html
+
+Подробная книга про то, как устроен NumPy и как применяется векторизация кода.
+------------------------------------------------------------------------------
+Очень полезно для ускорения и оптимизации кода
+http://www.labri.fr/perso/nrougier/from-python-to-numpy/
