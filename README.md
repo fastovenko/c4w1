@@ -38,3 +38,7 @@ https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
 Установка анаконды
 Скачать анаконду можно с https://www.anaconda.com/download/ - для Windows/ Linux/ OS
 
+PyCharm for Anaconda 
+--------------------
+is available at:
+https://www.anaconda.com/pycharm
