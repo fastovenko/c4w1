@@ -59,3 +59,17 @@ https://www.scipy-lectures.org/index.html
 ------------------------------------------------------------------------------
 Очень полезно для ускорения и оптимизации кода
 http://www.labri.fr/perso/nrougier/from-python-to-numpy/
+
+pandas.Series
+-------------
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html
+
+pandas.DataFrame
+----------------
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
+
+pandas.DataFrame.groupby
+------------------------
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
+
+
