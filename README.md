@@ -46,6 +46,7 @@ https://www.anaconda.com/pycharm
 NumPy и SciPy. Документация по NumPy и SciPy
 --------------------------------------------
 https://docs.scipy.org/doc/
+https://habr.com/ru/post/352678/
 
 Упражнения по Numpy
 -------------------
