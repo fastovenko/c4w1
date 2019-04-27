@@ -72,4 +72,18 @@ pandas.DataFrame.groupby
 ------------------------
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
 
+pandas.merge
+------------
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.merge.html
+
+Документация по Pandas
+----------------------
+pandas: powerful Python data analysis toolkit
+---------------------------------------------
+https://pandas.pydata.org/pandas-docs/stable/
+
+Дополнительные упражнения по Pandas
+-----------------------------------
+https://github.com/guipsamora/pandas_exercises/
+
 
