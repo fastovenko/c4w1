@@ -82,6 +82,7 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.merge.html
 pandas: powerful Python data analysis toolkit
 ---------------------------------------------
 https://pandas.pydata.org/pandas-docs/stable/
+https://habr.com/ru/company/ods/blog/322626/
 
 Дополнительные упражнения по Pandas
 -----------------------------------
